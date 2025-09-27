@@ -1,0 +1,8 @@
+"Portal 1 Speedrun Mod"
+{
+	"map"	"speedrun_00"
+	"image"		"./speedrun"
+	"comment"	"A recreation of Krzyhau's Portal 2 Speedrun Mod for Portal 1"
+	"lock"	"0"
+}
+
