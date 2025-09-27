@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui/speedrun"
+	"$vertexalpha" 1
+}
